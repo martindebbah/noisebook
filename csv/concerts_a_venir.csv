@@ -1,0 +1,33 @@
+artiste,concert_date,lieu,prix,places,volontaires,cause,enfants,extérieur
+5,2023-05-18,21,100,200,10,Collecte de fonds pour l'environnement,TRUE,FALSE
+22,2023-05-19,28,75,450,25,Collecte de fonds pour l'éducation,TRUE,FALSE
+18,2023-05-19,25,60,100,10,Promotion album,FALSE,FALSE
+22,2023-05-25,21,90,150,15,Collecte de fonds pour l'éducation,TRUE,FALSE
+18,2023-05-20,25,60,50,12,Promotion album,FALSE,FALSE
+5,2023-05-19,21,80,50,5,Collecte de fonds pour l'environnement,TRUE,FALSE
+22,2023-05-29,17,50,205,5,Collecte de fonds pour l'éducation,TRUE,FALSE
+18,2023-05-26,24,0,0,24,Promotion album,FALSE,TRUE
+5,2023-05-20,21,80,130,0,Collecte de fonds pour l'environnement,TRUE,FALSE
+5,2023-06-15,1,75,5000,50,Collecte de fonds pour la recherche sur le cancer,TRUE,FALSE
+7,2023-07-01,21,50,8000,100,Collecte de fonds pour l'éducation,TRUE,FALSE
+8,2023-06-30,24,100,3000,20,Collecte de fonds pour la protection des animaux,FALSE,TRUE
+12,2023-07-20,17,80,4000,40,Collecte de fonds pour l'environnement,TRUE,FALSE
+15,2023-08-01,6,60,6000,70,Collecte de fonds pour la recherche sur les maladies rares,FALSE,FALSE
+22,2023-06-13,13,150,20,5,Collecte de fonds pour l'éducation,TRUE,FALSE
+18,2023-09-15,28,90,4500,30,Promotion album,TRUE,FALSE
+20,2023-08-10,13,120,2000,10,Collecte de fonds pour la recherche sur le cancer,FALSE,FALSE
+22,2023-08-25,10,70,5500,60,Collecte de fonds pour la recherche sur les maladies rares,TRUE,FALSE
+23,2023-07-10,25,55,7000,80,Collecte de fonds pour les réfugiés,TRUE,FALSE
+29,2023-07-15,4,65,3500,25,Collecte de fonds pour la recherche sur les maladies rares,FALSE,FALSE
+5,2023-07-30,6,70,4000,50,Collecte de fonds pour la protection des animaux,TRUE,FALSE
+5,2023-05-23,6,100,120,10,Collecte de fonds pour l'environnement,TRUE,FALSE
+7,2023-08-05,1,40,10000,150,Collecte de fonds pour la protection des animaux,TRUE,FALSE
+8,2023-09-01,25,80,2500,15,Collecte de fonds pour la recherche sur le cancer,FALSE,FALSE
+12,2023-09-10,21,100,5000,50,Collecte de fonds pour les réfugiés,TRUE,FALSE
+5,2023-05-24,6,150,30,10,Collecte de fonds pour l'environnement,TRUE,FALSE
+15,2023-10-01,17,60,6000,70,Collecte de fonds pour la recherche sur les maladies rares,FALSE,FALSE
+18,2023-11-15,28,90,4500,30,Collecte de fonds pour l'éducation,TRUE,FALSE
+20,2023-10-10,13,120,2000,10,Collecte de fonds pour la recherche sur le cancer,FALSE,FALSE
+22,2023-10-25,10,70,5500,60,Collecte de fonds pour la recherche sur les maladies rares,TRUE,FALSE
+23,2023-09-10,25,55,7000,80,Collecte de fonds pour les réfugiés,TRUE,FALSE
+29,2023-09-15,4,65,3500,25,Collecte de fonds pour la recherche sur les maladies rares,FALSE,FALSE

@@ -1,0 +1,31 @@
+user_id,user_name,lieu,user_type
+1,Arena di Verona,Vérone,salle
+2,Léo,,utilisateur
+3,Chloé,,utilisateur
+4,Barclaycard Arena,Hambourg,salle
+5,Beyoncé,,artiste
+6,O2 Arena,Londres,salle
+7,Dua Lipa,,artiste
+8,Ariana Grande,,artiste
+9,Hugo,,utilisateur
+10,Staples Center,Los Angeles,salle
+11,Louis,,utilisateur
+12,Taylor Swift,,artiste
+13,Madison Square Garden,New York,salle
+14,Louise,,utilisateur
+15,Bruno Mars,,artiste
+16,Alice,,utilisateur
+17,Mercedes-Benz Arena,Berlin,salle
+18,Post Malone,,artiste
+19,Emma,,utilisateur
+20,Coldplay,,artiste
+21,AccorHotels Arena,Paris,salle
+22,Ed Sheeran,,artiste
+23,Harry Styles,,artiste
+24,BottleRock Napa Valley,Napa CA,salle
+25,Ziggo Dome,Amsterdam,salle
+26,Gabriel,,utilisateur
+27,Nathan,,utilisateur
+28,Wembley Arena,Londres,salle
+29,Drake,,artiste
+30,Jade,,utilisateur

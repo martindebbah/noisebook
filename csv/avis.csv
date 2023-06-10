@@ -1,0 +1,61 @@
+id_avis,user_id,note,text
+1,27,2,cool
+2,28,1,incroyable
+3,3,3,incroyable
+4,9,1,incroyable
+5,16,4,incroyable
+6,20,2,incroyable
+7,19,2,normal
+8,29,5,pas ouf
+9,10,2,cool
+10,12,3,nul
+11,22,4,nul
+12,15,5,pas ouf
+13,11,1,pas ouf
+14,12,3,nul
+15,17,4,nul
+16,28,3,incroyable
+17,29,3,cool
+18,29,4,nul
+19,25,2,cool
+20,22,3,nul
+21,26,3,normal
+22,19,2,incroyable
+23,3,3,nul
+24,6,2,incroyable
+25,9,2,normal
+26,25,3,incroyable
+27,21,4,cool
+28,15,5,incroyable
+29,3,5,cool
+30,11,3,cool
+31,20,4,nul
+32,17,4,pas ouf
+33,19,1,normal
+34,28,3,incroyable
+35,29,5,cool
+36,28,5,cool
+37,2,2,cool
+38,7,2,pas ouf
+39,30,3,pas ouf
+40,22,4,nul
+41,26,4,nul
+42,3,4,incroyable
+43,4,4,normal
+44,20,4,cool
+45,28,3,pas ouf
+46,24,4,pas ouf
+47,10,4,nul
+48,17,3,pas ouf
+49,3,2,pas ouf
+50,28,2,nul
+51,16,4,incroyable
+52,14,3,incroyable
+53,15,2,cool
+54,2,3,nul
+55,12,4,incroyable
+56,23,3,cool
+57,18,1,pas ouf
+58,29,3,nul
+59,22,5,incroyable
+60,18,2,cool
